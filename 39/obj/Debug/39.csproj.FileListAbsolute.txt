@@ -1,0 +1,7 @@
+F:\Visual Studio\job\39\bin\Debug\39.exe.config
+F:\Visual Studio\job\39\bin\Debug\39.exe
+F:\Visual Studio\job\39\bin\Debug\39.pdb
+F:\Visual Studio\job\39\obj\Debug\39.csproj.AssemblyReference.cache
+F:\Visual Studio\job\39\obj\Debug\39.csproj.CoreCompileInputs.cache
+F:\Visual Studio\job\39\obj\Debug\39.exe
+F:\Visual Studio\job\39\obj\Debug\39.pdb
