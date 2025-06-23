@@ -1,0 +1,7 @@
+F:\Visual Studio\job\34\bin\Debug\34.exe.config
+F:\Visual Studio\job\34\bin\Debug\34.exe
+F:\Visual Studio\job\34\bin\Debug\34.pdb
+F:\Visual Studio\job\34\obj\Debug\34.csproj.AssemblyReference.cache
+F:\Visual Studio\job\34\obj\Debug\34.csproj.CoreCompileInputs.cache
+F:\Visual Studio\job\34\obj\Debug\34.exe
+F:\Visual Studio\job\34\obj\Debug\34.pdb
