@@ -1,0 +1,7 @@
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
