@@ -1,0 +1,6 @@
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp25\bin\Debug\ConsoleApp25.exe.config
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp25\bin\Debug\ConsoleApp25.exe
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp25\bin\Debug\ConsoleApp25.pdb
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp25\obj\Debug\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp25\obj\Debug\ConsoleApp25.exe
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp25\obj\Debug\ConsoleApp25.pdb
