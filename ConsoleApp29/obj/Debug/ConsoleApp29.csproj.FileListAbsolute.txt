@@ -1,0 +1,7 @@
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp29\bin\Debug\ConsoleApp29.exe.config
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp29\bin\Debug\ConsoleApp29.exe
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp29\bin\Debug\ConsoleApp29.pdb
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.AssemblyReference.cache
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.CoreCompileInputs.cache
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp29\obj\Debug\ConsoleApp29.exe
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp29\obj\Debug\ConsoleApp29.pdb
