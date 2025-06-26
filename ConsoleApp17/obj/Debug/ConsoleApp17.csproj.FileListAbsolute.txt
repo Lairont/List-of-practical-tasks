@@ -1,0 +1,7 @@
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
