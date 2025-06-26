@@ -1,0 +1,6 @@
+D:\Экзамен шадригоз 41-49 задача\ConsoleApp44\bin\Debug\ConsoleApp44.exe.config
+D:\Экзамен шадригоз 41-49 задача\ConsoleApp44\bin\Debug\ConsoleApp44.exe
+D:\Экзамен шадригоз 41-49 задача\ConsoleApp44\bin\Debug\ConsoleApp44.pdb
+D:\Экзамен шадригоз 41-49 задача\ConsoleApp44\obj\Debug\ConsoleApp44.csproj.CoreCompileInputs.cache
+D:\Экзамен шадригоз 41-49 задача\ConsoleApp44\obj\Debug\ConsoleApp44.exe
+D:\Экзамен шадригоз 41-49 задача\ConsoleApp44\obj\Debug\ConsoleApp44.pdb
