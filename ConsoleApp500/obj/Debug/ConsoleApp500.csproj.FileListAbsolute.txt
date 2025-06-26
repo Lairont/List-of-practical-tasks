@@ -1,0 +1,7 @@
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp500\bin\Debug\ConsoleApp500.exe.config
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp500\bin\Debug\ConsoleApp500.exe
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp500\bin\Debug\ConsoleApp500.pdb
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp500\obj\Debug\ConsoleApp500.csproj.AssemblyReference.cache
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp500\obj\Debug\ConsoleApp500.csproj.CoreCompileInputs.cache
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp500\obj\Debug\ConsoleApp500.exe
+C:\Users\okhlo\OneDrive\Desktop\Проекты C#\Экзамены\ConsoleApp500\obj\Debug\ConsoleApp500.pdb
